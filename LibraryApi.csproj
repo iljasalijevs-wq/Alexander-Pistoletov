@@ -1,8 +1,0 @@
-{
-  "ConnectionStrings": {
-    "DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;Database=LibraryDb;Trusted_Connection=True;"
-  },
-  "Jwt": {
-    "Key": "THIS_IS_SUPER_SECRET_KEY_12345"
-  }
-}
